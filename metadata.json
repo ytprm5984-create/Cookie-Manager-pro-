@@ -1,0 +1,6 @@
+{
+  "name": "Cookie Manager Pro",
+  "description": "Professional developer utility for importing, validating, inspecting, converting, and exporting JSON and Netscape cookie files securely on device.",
+  "requestFramePermissions": [],
+  "majorCapabimajorCapabilitieslities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
